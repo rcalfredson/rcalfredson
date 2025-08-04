@@ -55,7 +55,10 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 ### 🤝 Community & Volunteering
 - Mutual aid for hunger relief - passionate volunteer at [Root Causes](https://www.rootcauseshealth.org/)/ and [BaggingIt4Kids Durham](https://www.facebook.com/bagging4/)
 
-📫 **Get in touch:**  
+
+---
+
+### 📫 Get in touch:
 
 [![Email Badge](https://img.shields.io/badge/✉️-robert.c.alfredson@gmail.com-blue?logo=gmail)](mailto:robert.c.alfredson@gmail.com)
 
