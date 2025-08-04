@@ -52,9 +52,8 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 - Mutual aid for hunger relief - passionate volunteer at [Root Causes](https://www.rootcauseshealth.org/)/ and [BaggingIt4Kids Durham](https://www.facebook.com/bagging4/)
 
 📫 **Get in touch:**  
-[![Email Badge](https://img.shields.io/badge/✉️-robert.c.alfredson@gmail.com-blue?logo=gmail)](mailto:robert.c.alfredson@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/🔗-LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/robert-alfredson-78724a69/)
-[![GitHub Followers](https://img.shields.io/github/followers/rcalfredson?label=Follow&style=social)](https://github.com/rcalfredson)
+
+[![Email Badge](https://img.shields.io/badge/✉️-robert.c.alfredson@gmail.com-blue?logo=gmail)](mailto:robert.c.alfredson@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/🔗-LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/robert-alfredson-78724a69/) [![GitHub Followers](https://img.shields.io/github/followers/rcalfredson?label=Follow&style=social)](https://github.com/rcalfredson)
 
 ---
 
