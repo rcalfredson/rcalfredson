@@ -22,15 +22,9 @@
 ---
 
 <!-- ACTIVITY GRAPH INSIDE A COLLAPSIBLE -->
-<details>
-  <summary>📊 2025 Activity Graph</summary>
-
-  <br />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rcalfredson&theme=github-dark&area=true&hide_border=true"
-    alt="Activity Graph"
-  />
-</details>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rcalfredson&theme=xcode&hide_border=true" alt="Activity graph">
+  </a>
 
 ---
 
