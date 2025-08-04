@@ -72,4 +72,5 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 
 > **🎵 Music & Cars:** The first car radio was installed in a 1930 Ford Deluxe — but you had to crank it by hand if the battery died! 🚗🔊
 
-> “Stay curious, keep coding!”
+
+**“Stay curious, keep coding!”**
