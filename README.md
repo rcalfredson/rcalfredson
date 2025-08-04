@@ -1,11 +1,3 @@
-<!-- HEADER: CENTERED VISITOR COUNTER -->
-<div align="center">
-  <p>👀 Thanks for stopping by!</p>
-  <img src="https://profile-counter.glitch.me/rcalfredson/count.svg" alt="Visitor Count" />
-</div>
-
----
-
 <!-- GITHUB STATS & LANGUAGES IN A GRID -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; justify-items: center;">
 
