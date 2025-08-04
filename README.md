@@ -21,7 +21,7 @@
 
 ---
 
-<!-- ACTIVITY GRAPH INSIDE A COLLAPSIBLE -->
+<!-- ACTIVITY GRAPH -->
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=rcalfredson&theme=github-dark&area=true&hide_border=true"
   alt="Activity Graph"
@@ -35,25 +35,33 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 
 ### 🔭 Main Projects
 - 🚀 Research technician in [Dr. Rebecca Yang's lab at Duke University](https://rebeccayang.org/), currently focused on neural nets for animal behavior analysis.
-- 📝 Building **DailyPage.org**, a multilingual content platform (Spanish, English & French). My contributions focus on physics blog posts
+- 📝 Building **DailyPage.org**, a multilingual content platform (Spanish, English & French). My contributions focus on physics blog posts.
 
 ---
 
 ### 🛠️ Tech Stack
-- **Data Science:** TensorFlow, NumPy, Matplotlib  
-- **Backend:** Node.js, Python (Flask), MongoDB, Mailgun (email flows)
-- **Frontend:** Vanilla JS/HTML/CSS, Vue.js, Pug, Browserify
-- **Other languages/technologies:** Ruby, Linux
+- **Data Science:** TensorFlow, NumPy, Matplotlib.
+- **Backend:** Node.js, Python (Flask), MongoDB, Mailgun (email flows).
+- **Frontend:** Vanilla JS/HTML/CSS, Vue.js, Pug, Browserify.
+- **Other languages/technologies:** Ruby, Linux.
 
 ---
-### Other Interests
-- 🌱 Duolingo veteran: 1294-day streak, hoping to master all six official UN languages and beyond. Have focused on Spanish for the past several years! 🇪🇸 🇲🇽
+### 🌱 Other Interests
+- Duolingo veteran: 1294-day streak, hoping to master all six official UN languages and beyond. Have focused on Spanish for the past several years! 🇪🇸 🇲🇽
 - Lifelong guitar player, runner, biker
+
+---
+
+### 🤝 Community & Volunteering
 - Mutual aid for hunger relief - passionate volunteer at [Root Causes](https://www.rootcauseshealth.org/)/ and [BaggingIt4Kids Durham](https://www.facebook.com/bagging4/)
 
 📫 **Get in touch:**  
 
-[![Email Badge](https://img.shields.io/badge/✉️-robert.c.alfredson@gmail.com-blue?logo=gmail)](mailto:robert.c.alfredson@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/🔗-LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/robert-alfredson-78724a69/) [![GitHub Followers](https://img.shields.io/github/followers/rcalfredson?label=Follow&style=social)](https://github.com/rcalfredson)
+[![Email Badge](https://img.shields.io/badge/✉️-robert.c.alfredson@gmail.com-blue?logo=gmail)](mailto:robert.c.alfredson@gmail.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/🔗-LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/robert-alfredson-78724a69/)
+
+[![GitHub Followers](https://img.shields.io/github/followers/rcalfredson?label=Follow&style=social)](https://github.com/rcalfredson)
 
 ---
 
