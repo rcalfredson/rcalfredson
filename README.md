@@ -34,8 +34,8 @@
 Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer with a guitar always nearby.
 
 ### 🔭 Main Projects
-- Research technician in [Dr. Rebecca Yang's lab at Duke University](https://rebeccayang.org/), currently focused on neural nets for animal behavior analysis.
-- 🔭 Building **DailyPage.org**, a multilingual content platform (Spanish, English & French). My contributions focus on physics blog posts
+- 🚀 Research technician in [Dr. Rebecca Yang's lab at Duke University](https://rebeccayang.org/), currently focused on neural nets for animal behavior analysis.
+- 📝 Building **DailyPage.org**, a multilingual content platform (Spanish, English & French). My contributions focus on physics blog posts
 
 ---
 
@@ -46,7 +46,7 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 - **Other languages/technologies:** Ruby, Linux
 
 ---
-### Other interests
+### Other Interests
 - 🌱 Duolingo veteran: 1294-day streak, hoping to master all six official UN languages and beyond. Have focused on Spanish for the past several years! 🇪🇸 🇲🇽
 - Lifelong guitar player, runner, biker
 - Mutual aid for hunger relief - passionate volunteer at [Root Causes](https://www.rootcauseshealth.org/)/ and [BaggingIt4Kids Durham](https://www.facebook.com/bagging4/)
