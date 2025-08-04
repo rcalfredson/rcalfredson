@@ -33,6 +33,7 @@
 
 Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer with a guitar always nearby.
 
+### 🔭 Main Projects
 - Research technician in [Dr. Rebecca Yang's lab at Duke University](https://rebeccayang.org/), currently focused on neural nets for animal behavior analysis.
 - 🔭 Building **DailyPage.org**, a multilingual content platform (Spanish, English & French). My contributions focus on physics blog posts
 
@@ -43,10 +44,12 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 - **Backend:** Node.js, Python (Flask), MongoDB, Mailgun (email flows)
 - **Frontend:** Vanilla JS/HTML/CSS, Vue.js, Pug, Browserify
 - **Other languages/technologies:** Ruby, Linux
-- Computational: TensorFlow, NumPy, Matplotlib.
-- ⚙️ Backend: Node.js, MongoDB, Mailgun (email verification & password reset).  
-- 💻 Frontend: Vanilla JS + Browserify, Pug, Vue.js.
+
+---
+### Other interests
 - 🌱 Duolingo veteran: 1294-day streak, hoping to master all six official UN languages and beyond. Have focused on Spanish for the past several years! 🇪🇸 🇲🇽
+- Lifelong guitar player, runner, biker
+- Mutual aid for hunger relief - passionate volunteer at [Root Causes](https://www.rootcauseshealth.org/)/ and [BaggingIt4Kids Durham](https://www.facebook.com/bagging4/)
 
 📫 **Get in touch:**  
 [![Email Badge](https://img.shields.io/badge/✉️-robert.c.alfredson@gmail.com-blue?logo=gmail)](mailto:robert.c.alfredson@gmail.com)  
