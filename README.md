@@ -35,7 +35,7 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 
 ### 🔭 Main Projects
 - 🚀 Research technician in [Dr. Rebecca Yang's lab at Duke University](https://rebeccayang.org/), currently focused on neural nets for animal behavior analysis.
-- 📝 Building **DailyPage.org**, a multilingual content platform (Spanish, English & French). My contributions focus on physics blog posts.
+- 📝 Building **[DailyPage.org](https://dailypage.org)**, a multilingual content platform (Spanish, English & French). My contributions focus on physics blog posts.
 
 ---
 
