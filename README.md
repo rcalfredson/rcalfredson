@@ -35,6 +35,14 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 
 - Research technician in [Dr. Rebecca Yang's lab at Duke University](https://rebeccayang.org/), currently focused on neural nets for animal behavior analysis.
 - 🔭 Building **DailyPage.org**, a multilingual content platform (Spanish, English & French). My contributions focus on physics blog posts
+
+---
+
+### 🛠️ Tech Stack
+- **Data Science:** TensorFlow, NumPy, Matplotlib  
+- **Backend:** Node.js, Python (Flask), MongoDB, Mailgun (email flows)
+- **Frontend:** Vanilla JS/HTML/CSS, Vue.js, Pug, Browserify
+- **Other languages/technologies:** Ruby, Linux
 - Computational: TensorFlow, NumPy, Matplotlib.
 - ⚙️ Backend: Node.js, MongoDB, Mailgun (email verification & password reset).  
 - 💻 Frontend: Vanilla JS + Browserify, Pug, Vue.js.
