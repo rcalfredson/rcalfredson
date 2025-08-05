@@ -53,7 +53,7 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 ---
 
 ### 🤝 Community & Volunteering
-- Mutual aid for hunger relief - passionate volunteer at [Root Causes](https://www.rootcauseshealth.org/)/ and [BaggingIt4Kids Durham](https://www.facebook.com/bagging4/)
+- Mutual aid for hunger relief - passionate volunteer at [Root Causes](https://www.rootcauseshealth.org/) and [BaggingIt4Kids Durham](https://www.facebook.com/bagging4/)
 
 
 ---
