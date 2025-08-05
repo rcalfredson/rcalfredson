@@ -40,7 +40,7 @@ Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer wi
 ---
 
 ### 🛠️ Tech Stack
-- **Data Science:** TensorFlow, NumPy, Matplotlib.
+- **Data Science:** TensorFlow, NumPy, Cython, Matplotlib.
 - **Backend:** Node.js, Python (Flask), MongoDB, Mailgun (email flows).
 - **Frontend:** Vanilla JS/HTML/CSS, Vue.js, Pug, Browserify.
 - **Other languages/technologies:** Ruby, Linux.
