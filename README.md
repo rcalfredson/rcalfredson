@@ -1,3 +1,9 @@
+## Hi 👋, I'm Robert Alfredson
+
+---
+
+A physics student turned full-stack developer with a guitar always nearby.
+
 <!-- GITHUB STATS & LANGUAGES IN A GRID -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; justify-items: center;">
 
@@ -30,10 +36,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcalfredson&label=Profile%20views&color=0e75b6&style=flat" alt="rcalfredson" /> </p>
 
 ---
-
-## 👋 About Me
-
-Hi, I’m **Robert Alfredson** — a physics nerd turned full-stack developer with a guitar always nearby.
 
 ### 🔭 Main Projects
 - 🚀 Research technician in [Dr. Rebecca Yang's lab at Duke University](https://rebeccayang.org/), currently focused on neural nets for animal behavior analysis.
