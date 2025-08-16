@@ -4,7 +4,7 @@
   <!-- GitHub Stats Card -->
   <div align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=rcalfredson&theme=radical&show_icons=true&count_private=true&hide_title=true"
+      src="https://github-readme-stats.vercel.app/api?username=rcalfredson&theme=radical&show_icons=true&count_private=true"
       alt="Robert's GitHub Stats" width="320"
     />
   </div>
@@ -12,7 +12,7 @@
   <!-- Top Languages Card -->
   <div align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalfredson&theme=radical&layout=compact&hide=html,css"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalfredson&theme=radical&layout=compact&hide=html,css&show_icons=true&locale=en"
       alt="Top Languages" width="320"
     />
   </div>
@@ -26,6 +26,8 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=rcalfredson&theme=github-dark&area=true&hide_border=true"
   alt="Activity Graph"
 />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rcalfredson&label=Profile%20views&color=0e75b6&style=flat" alt="rcalfredson" /> </p>
 
 ---
 
