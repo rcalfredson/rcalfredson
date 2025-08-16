@@ -1,29 +1,25 @@
-## Hi 👋, I'm Robert Alfredson
+<h1 align="center">Hi 👋, I'm Robert Alfredson</h1>
 
----
+<h3 align="center">A physics student turned full-stack developer with a guitar always nearby.</h3>
 
-A physics student turned full-stack developer with a guitar always nearby.
 
-<!-- GITHUB STATS & LANGUAGES IN A GRID -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; justify-items: center;">
-
-  <!-- GitHub Stats Card -->
-  <div align="center">
-    <img
+<!-- GitHub Stats Card -->
+<p>
+    <img align="left"
       src="https://github-readme-stats.vercel.app/api?username=rcalfredson&theme=radical&show_icons=true&count_private=true"
       alt="Robert's GitHub Stats" width="320"
     />
-  </div>
-
+</p>
   <!-- Top Languages Card -->
-  <div align="center">
-    <img
+<p>
+    &nbsp;
+    <img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalfredson&theme=radical&layout=compact&hide=html,css&show_icons=true&locale=en"
       alt="Top Languages" width="320"
     />
-  </div>
+</p>
 
-</div>
+
 
 ---
 
