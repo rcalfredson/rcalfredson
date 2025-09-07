@@ -37,6 +37,18 @@
 - 🚀 Research technician in [Dr. Rebecca Yang's lab at Duke University](https://rebeccayang.org/), currently focused on neural nets for animal behavior analysis.
 - 📝 Building **[DailyPage.org](https://dailypage.org)**, a multilingual content platform (Spanish, English & French). My contributions focus on physics blog posts.
 
+
+---
+
+### 🎓 Certifications
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://www.credly.com/earner/earned/badge/46d3e55d-f58b-4862-a9ed-652903b56296)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)](https://www.credly.com/earner/earned/badge/95860c7a-39cf-4afa-b42d-c5e92fcc8206)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-green)](https://www.credly.com/earner/earned/badge/cd59d400-1fe5-4cf8-8515-db347078a5ee)
+
+**Additional Stackable Certifications:**  
+- [CompTIA IT Operations Specialist (CIOS)](https://www.credly.com/earner/earned/badge/a99268de-993c-405c-9097-6de852535bff)  
+- [CompTIA Secure Infrastructure Specialist (CSIS)](https://www.credly.com/earner/earned/badge/318bddf9-c7fc-4ea4-b209-e9805e24ba6b)
+
 ---
 
 ### 🛠️ Tech Stack
