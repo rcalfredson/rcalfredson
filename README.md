@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Robert Alfredson</h1>
 
 <h3 align="center">A physics student turned full-stack developer with a guitar always nearby.</h3>
-
-
-<!-- GitHub Stats Card -->
-<p>
-    <img align="left"
-      src="https://github-readme-stats.vercel.app/api?username=rcalfredson&theme=radical&show_icons=true&count_private=true"
-      alt="Robert's GitHub Stats" width="320"
-    />
-</p>
-  <!-- Top Languages Card -->
-<p>
-    &nbsp;
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalfredson&theme=radical&layout=compact&hide=html,css&show_icons=true&locale=en"
-      alt="Top Languages" width="320"
-    />
-</p>
+<!-- GitHub Stats Cards -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github-stats-extended.vercel.app/api?username=rcalfredson&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=vue-dark">
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=rcalfredson&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=vue-dark"
+          alt="Robert's GitHub Stats"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=rcalfredson&langs_count=4&theme=vue-dark">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=rcalfredson&langs_count=4&theme=vue-dark"
+          alt="Robert's Top Languages"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
