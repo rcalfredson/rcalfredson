@@ -33,7 +33,19 @@
   alt="Activity Graph"
 />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rcalfredson&label=Profile%20views&color=0e75b6&style=flat" alt="rcalfredson" /> </p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=rcalfredson&label=Profile%20views&color=0e75b6&style=for-the-badge"
+    alt="Profile views"
+  />
+  &nbsp;
+  <a href="https://profile.hackthebox.com/profile/019e38b7-8ea1-7269-956d-6b2eb681c14d">
+    <img
+      src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"
+      alt="Hack The Box"
+    />
+  </a>
+</p>
 
 ---
 
