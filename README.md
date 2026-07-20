@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Robert Alfredson</h1>
 
 <h3 align="center">A physics student turned full-stack developer with a guitar always nearby.</h3>
+
+---
+
+<em>In the information age, the barriers to entry just aren't there. The barriers are self imposed. If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it. We slept on floors. We waded across rivers.</em>
+<p align="center">—John Carmack</p>
+
+---
+
 <!-- GitHub Stats Cards -->
 <table align="center">
   <tr>
@@ -75,7 +83,7 @@
 
 ---
 ### 🌱 Other Interests
-- Duolingo veteran: 1294-day streak, hoping to master all six official UN languages and beyond. Have focused on Spanish for the past several years! 🇪🇸 🇲🇽
+- Duolingo veteran: 1643-day streak, hoping to master all six official UN languages and beyond. Have focused on Spanish for the past several years! 🇪🇸 🇲🇽
 - Lifelong guitar player, runner, biker
 
 ---
